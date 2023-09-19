@@ -1,0 +1,3 @@
+from algoritmo import *
+
+main()
